@@ -1,6 +1,6 @@
-198.62.62.156:443#US
-162.159.129.11:2053#US
-braden.ns.cloudflare.com
-[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6
-104.17.71.31:443#HK
-time.is
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipJP.txt@141.147.163.68
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipHK.txt@proxyip.amclubs.kozow.com
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
+
+
